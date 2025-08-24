@@ -1,0 +1,11 @@
+live_config_reload = true
+
+[window]
+startup_mode = "Maximized"
+
+[font]
+size = 13
+
+[selection]
+save_to_clipboard = true
+
